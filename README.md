@@ -11,4 +11,3 @@
  </a>
 </div>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Renato)](https://git.io/streak-stats)
